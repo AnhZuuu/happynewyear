@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
 
 *, *::before, *::after {
   font-family: inherit;
@@ -286,4 +286,4 @@ main .shadow.shadow2 > span, main .shadow.shadow2 .digit {
   top: 0;
   left: 0;
   transform: translate(-50%, -50%);
-} */
+}

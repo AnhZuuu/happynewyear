@@ -4,7 +4,7 @@ const mediaUrls = [
     // 'https://res.cloudinary.com/djclvnzg1/video/upload/v1704741816/spiderverse_kdoczt.mp4',
     // 'https://res.cloudinary.com/djclvnzg1/video/upload/v1705002969/PlayStation_5_Startup_myclro.mp4',
     'banh.mp4',
-    'Naruto.mp4',
+    'weekend.mp4',
     'emotional_damage.mp4',
     
 ];
@@ -43,7 +43,7 @@ function swapMedia() {
             video.autoplay = true;
             video.muted = false;
             video.loop = true;
-            video.volume = 0.5;
+            video.volume = 0.3;
             
             (i > 0) ? video.style.opacity = currentOpacity : '';
             video.appendChild(source);
