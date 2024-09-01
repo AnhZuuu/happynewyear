@@ -4,8 +4,8 @@ const mediaUrls = [
     // 'https://res.cloudinary.com/djclvnzg1/video/upload/v1704741816/spiderverse_kdoczt.mp4',
     // 'https://res.cloudinary.com/djclvnzg1/video/upload/v1705002969/PlayStation_5_Startup_myclro.mp4',
     'banh.mp4',
-    'weekend.mp4',
-    'emotional_damage.mp4',
+    'chia_tay.mp4',
+    'city.mp4',
     
 ];
 
